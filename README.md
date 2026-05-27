@@ -1,4 +1,4 @@
-# Hi 👋, I'm Herbert Souza
+# Hi 👋, I'm Pettrius Paiva
 
 🚀 **Intern Software Engineer | Python & Flask**  
 🇧🇷 Brazil
