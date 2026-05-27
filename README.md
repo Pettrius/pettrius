@@ -1,12 +1,10 @@
 # Hi 👋, I'm Pettrius 
 
-🚀 **Intern Software Engineer | Python & Flask**  
+🚀 Software Engineering student at INATEL | Python & Flask  
 🇧🇷 Brazil
 
-I build **scalable APIs**, **SaaS platforms**, and **high-performance web systems**.  
-I’m deeply focused on **architecture, performance, clean code, and business-driven solutions**.
-
-I also create content and share knowledge on **software development, SaaS, and tech entrepreneurship**.
+Building APIs, bots, and web systems — focused on clean code and real-world solutions.  
+Looking for a Fullstack or Data internship to grow in practice.
 
 ---
 
@@ -28,12 +26,12 @@ I also create content and share knowledge on **software development, SaaS, and t
 
 ## 🧠 What I do
 
--   🏗️ SaaS & High-scale systems
--   ⚡ Performance optimization
--   🧩 Clean architecture & system design
--   🔐 Secure APIs & authentication
--   🤖 Automation & integrations
--   📊 Dashboards & analytics
+- 🐍 REST APIs with Python & Flask
+- 🤖 Automation & WhatsApp bots
+- 🗄️ MySQL databases & queries
+- ⚛️ Frontend with React.js
+- 🔧 Version control with Git & GitHub
+- 🌎 Advanced English (reading, writing & communication)
 
 ---
 
@@ -76,7 +74,7 @@ I also create content and share knowledge on **software development, SaaS, and t
 
 ---
 
-⭐ If you like my work, consider starring a repository.  
+⭐ If you like my work, feel free to reach out!.  
 🤝 Always open to collaborations, partnerships, and cool ideas.
 
 Looking for Intern or Junior opportunities to start putting my work in practice.
